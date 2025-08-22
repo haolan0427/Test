@@ -1,6 +1,6 @@
 *.txt
 *.[oi]
 video?.mp4
-picture[0-10].jpg
+picture{0..10}.jpg
 /note/**/picture_bed
 !*.py
